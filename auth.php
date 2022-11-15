@@ -43,20 +43,4 @@ header("Location: ./");
 $conn->close();
 
 
-
-
-
-/*
-  if ($result->num_rows > 0) {
-  while($row = $result->fetch_assoc()) {
-    
-  }
-} else if ($result->num_rows == 0) { 
-    $db = "ERROR";echo $db;
-}else {
-    $db = "ERROR";echo $db;
-}
-*/
-
-
 ?>
